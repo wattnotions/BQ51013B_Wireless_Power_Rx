@@ -1,0 +1,34 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Availability,Check_prices,MF,MP,Package,Price,Purchase-URL,SnapEDA_Link
+1,"Unpolarized capacitor, small symbol",C_Small,C14,100pF,,1,~,,,,,,,,
+2,"Unpolarized capacitor, small symbol",C_Small,C3,1800pF,,1,~,,,,,,,,
+3,"Unpolarized capacitor, small symbol",C_Small,C2 C4,10nF,,2,~,,,,,,,,
+4,"Unpolarized capacitor, small symbol",C_Small,C1 C5,22nF,,2,~,,,,,,,,
+5,"Unpolarized capacitor, small symbol",C_Small,C8 C15 C16,68nF,,3,~,,,,,,,,
+6,"Unpolarized capacitor, small symbol",C_Small,C9 C10,0.1uF,,2,~,,,,,,,,
+7,"Unpolarized capacitor, small symbol",C_Small,C6 C7,.47uF,,2,~,,,,,,,,
+8,"Unpolarized capacitor, small symbol",C_Small,C11 C12 C13,10uF,,3,~,,,,,,,,
+9,"Light emitting diode, small symbol",LED_Small,D1,2.1Vf LED,,1,~,,,,,,,,
+10,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x05,J1,Conn_01x05,,1,~,,,,,,,,
+11,Inductor,L,PICKUP_COIL1,L,,1,~,,,,,,,,
+12,"Resistor, small symbol",R_Small,R1,196R,,1,~,,,,,,,,
+13,"Resistor, small symbol",R_Small,R3,262R,,1,~,,,,,,,,
+14,"Resistor, small symbol",R_Small,R4,1.5k,,1,~,,,,,,,,
+15,"Resistor, small symbol",R_Small,R2,10k,,1,~,,,,,,,,
+16,"Resistor, small symbol",R_Small,R5,20k,,1,~,,,,,,,,
+17,WPC 1.1 Compatible Fully integrated Wireless power Receiver IC,BQ51013BRHLR,U1,BQ51013BRHLR,IC_MSP430FR2522IRHLR,1,,In Stock,https://www.snapeda.com/parts/BQ51013BRHLR/Texas+Instruments/view-part/?ref=eda,Texas Instruments,BQ51013BRHLR,VQFN-20 Texas Instruments,None,https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=327516&manufacturer=Texas Instruments&part_name=BQ51013BRHLR&search_term=None,https://www.snapeda.com/parts/BQ51013BRHLR/Texas+Instruments/view-part/?ref=snap
+
+
+
+
+
+Component Groups:,17
+Component Count:,25
+Fitted Components:,25
+Number of PCBs:,1
+Total components:,25
+Schematic Version:,
+Schematic Date:,
+PCB Variant:,default
+BoM Date:,17/09/2023 17:47:55
+Schematic Source:,BQ51013B_Wireless_RX_Test.kicad_sch
+KiCad Version:,Eeschema (7.0.0)

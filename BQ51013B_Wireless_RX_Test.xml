@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\ShaneOrmonde\Documents\GitHub\BQ51013B_Wireless_Power_Rx\BQ51013B_Wireless_RX_Test.kicad_sch</source>
+    <date>17/09/2023 17:47:55</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BQ51013B_Wireless_RX_Test.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>22nF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d587936-e111-4b72-b421-ae5721578ad7</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10nF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35c939d4-f3b4-4fc2-b3bf-c1e040af28f2</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1800pF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fc2f3aa-139f-4878-9ef6-928de52d0f01</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10nF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a43168ab-626d-490b-ba26-f1b1458cb1a3</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>22nF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58b9c0d3-5891-46ab-bef0-7aa74dcb341d</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>.47uF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bdc20410-4593-4e81-93dc-f0bc51284eac</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.47uF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a81c7faf-b2cd-45ce-8f09-bd19f5e9067d</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>68nF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>784e3ff5-e6ea-45f0-91bb-ab30009fcaa6</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40ca8bd2-26a2-4c34-a528-c0de29642287</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f484946d-2cf1-4227-bf93-b7996c6998a3</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>10uF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc838e6e-57ff-4ba7-ab13-a43d17b291d7</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>10uF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>baf707a2-2486-4118-87b1-939c2ab4d816</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>10uF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5be6041-c894-4b91-92c8-7c2997e571f4</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100pF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5281e052-d1e8-4985-9045-e1668ccbac03</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>68nF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8900cd1d-9381-4351-aa47-4180b1d12797</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>68nF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a266de6c-8421-407d-89d8-70d416e31fba</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>2.1Vf LED</value>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>500ba21e-42fb-4048-9398-eb4dbb30a2d8</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x05</value>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b6c9674-1e01-4fcd-b78b-8613a604548f</tstamps>
+    </comp>
+    <comp ref="PICKUP_COIL1">
+      <value>L</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>526535e9-6f79-4e91-8633-85b540268bf1</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>196R</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78adb9cd-065d-4463-b9fe-1724ddd888f8</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2e8ff09-fa69-4a75-bbcc-c30852313440</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>262R</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e901a8d-880c-4f11-9445-a9b8e685eb81</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1.5k</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93b279e6-89bf-4e19-9a18-15b4c5b165de</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>20k</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d688725-adb8-4aea-ba30-a7c947f1a1b9</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>BQ51013BRHLR</value>
+      <footprint>BQ51013BRHLR:IC_MSP430FR2522IRHLR</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/BQ51013BRHLR/Texas+Instruments/view-part/?ref=eda</field>
+        <field name="Description">
+WPC 1.1 Compatible Fully integrated Wireless power Receiver IC
+</field>
+        <field name="MF">Texas Instruments</field>
+        <field name="MP">BQ51013BRHLR</field>
+        <field name="Package">VQFN-20 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=327516&amp;manufacturer=Texas Instruments&amp;part_name=BQ51013BRHLR&amp;search_term=None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/BQ51013BRHLR/Texas+Instruments/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Kicad_symbols" part="BQ51013BRHLR" description=""/>
+      <property name="MF" value="Texas Instruments"/>
+      <property name="Description" value="&#xA;WPC 1.1 Compatible Fully integrated Wireless power Receiver IC&#xA;"/>
+      <property name="Package" value="VQFN-20 Texas Instruments"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/BQ51013BRHLR/Texas+Instruments/view-part/?ref=snap"/>
+      <property name="MP" value="BQ51013BRHLR"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=327516&amp;manufacturer=Texas Instruments&amp;part_name=BQ51013BRHLR&amp;search_term=None"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/BQ51013BRHLR/Texas+Instruments/view-part/?ref=eda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BQ51013B_Wireless_RX_Test.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b15bb5fb-1dfb-43c3-b972-76e7c3fea40f</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Kicad_symbols" part="BQ51013BRHLR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BQ51013BRHLR</field>
+        <field name="Footprint">BQ51013BRHLR:IC_MSP430FR2522IRHLR</field>
+        <field name="MF">Texas Instruments</field>
+        <field name="Description">
+WPC 1.1 Compatible Fully integrated Wireless power Receiver IC
+</field>
+        <field name="Package">VQFN-20 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/BQ51013BRHLR/Texas+Instruments/view-part/?ref=snap</field>
+        <field name="MP">BQ51013BRHLR</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=327516&amp;manufacturer=Texas Instruments&amp;part_name=BQ51013BRHLR&amp;search_term=None</field>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/BQ51013BRHLR/Texas+Instruments/view-part/?ref=eda</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PGND" type="power_in"/>
+        <pin num="2" name="AC1" type="input"/>
+        <pin num="3" name="BOOT1" type="output"/>
+        <pin num="4" name="OUT" type="output"/>
+        <pin num="5" name="CLAMP1" type="output"/>
+        <pin num="6" name="COMM1" type="output"/>
+        <pin num="7" name="~{CHG}" type="output"/>
+        <pin num="8" name="~{AD-EN}" type="output"/>
+        <pin num="9" name="AD" type="input"/>
+        <pin num="10" name="EN1" type="input"/>
+        <pin num="11" name="EN2" type="input"/>
+        <pin num="12" name="ILIM" type="bidirectional"/>
+        <pin num="13" name="TS/CTRL" type="input"/>
+        <pin num="14" name="FOD" type="input"/>
+        <pin num="15" name="COMM2" type="output"/>
+        <pin num="16" name="CLAMP2" type="output"/>
+        <pin num="17" name="BOOT2" type="output"/>
+        <pin num="18" name="RECT" type="output"/>
+        <pin num="19" name="AC2" type="input"/>
+        <pin num="20" name="PGND" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Kicad_symbols">
+      <uri>C:/Users/ShaneOrmonde/Documents/GitHub/Kicad_parts/Kicad_symbols.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/EN1">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="EN1" pintype="input"/>
+    </net>
+    <net code="2" name="/EN2">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="EN2" pintype="input"/>
+    </net>
+    <net code="3" name="/RECT">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/VOUT">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="5" name="/~{CHG}">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="~{CHG}" pintype="output"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="PGND" pintype="power_in"/>
+      <node ref="U1" pin="20" pinfunction="PGND" pintype="power_in"/>
+      <node ref="U1" pin="9" pinfunction="AD" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(C15-Pad2)">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="PICKUP_COIL1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(U1-AC1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="PICKUP_COIL1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="AC2" pintype="input"/>
+      <node ref="U1" pin="2" pinfunction="AC1" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(U1-BOOT1)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="BOOT1" pintype="output"/>
+    </net>
+    <net code="11" name="Net-(U1-BOOT2)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="BOOT2" pintype="output"/>
+    </net>
+    <net code="12" name="Net-(U1-CLAMP1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="CLAMP1" pintype="output"/>
+    </net>
+    <net code="13" name="Net-(U1-CLAMP2)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="CLAMP2" pintype="output"/>
+    </net>
+    <net code="14" name="Net-(U1-COMM1)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="COMM1" pintype="output"/>
+    </net>
+    <net code="15" name="Net-(U1-COMM2)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="COMM2" pintype="output"/>
+    </net>
+    <net code="16" name="Net-(U1-FOD)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="FOD" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(U1-ILIM)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="ILIM" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="Net-(U1-RECT)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="RECT" pintype="output"/>
+    </net>
+    <net code="19" name="Net-(U1-TS{slash}CTRL)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="TS/CTRL" pintype="input"/>
+    </net>
+    <net code="20" name="unconnected-(U1-~{AD-EN}-Pad8)">
+      <node ref="U1" pin="8" pinfunction="~{AD-EN}" pintype="output"/>
+    </net>
+  </nets>
+</export>
